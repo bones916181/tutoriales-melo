@@ -1,0 +1,13 @@
+
+Para revisar branchs 
+
+  git branch
+
+Para crear una branch 
+
+  git branch <name>
+
+Para entrar a una branch
+
+  git checkout <name>
+
